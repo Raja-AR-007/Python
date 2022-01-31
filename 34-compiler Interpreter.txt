@@ -1,0 +1,4 @@
+
+# By default we write code it getting compile in Background
+
+Source code -> Compile -> Byte code -> Interpreter(Python Virtual Machine) -> Machine Language(Output)
