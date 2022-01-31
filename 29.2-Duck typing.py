@@ -14,7 +14,7 @@ class pycharm:
         print("Running")
 
 class Laptop:
-    def code(self, ide):
+    def code(self, ide):    # here we used 'ide'
         ide.execute()
 
 ide = pycharm()
